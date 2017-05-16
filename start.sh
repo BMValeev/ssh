@@ -10,3 +10,4 @@ android-gadget-service enable ssh
 sudo chown -R phablet.phablet ~/.ssh
 chmod 600 ~/.ssh/authorized_keys
 chmod 700 ~/.ssh
+android-gadget-service enable ssh
